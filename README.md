@@ -8,3 +8,4 @@ Contents
 
 - Creating and Destroying Objects
   1. Consider static factory methods instead of constructors
+  2. Consider a builder when faced with many constructor parameters
